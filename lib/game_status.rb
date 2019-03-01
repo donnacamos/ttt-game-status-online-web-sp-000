@@ -23,7 +23,7 @@ WIN_COMBINATIONS = [
     index_1 = win_combo[1]
     index_2 = win_combo[2]
       
-      
+      position_1 = 
       
       
       
