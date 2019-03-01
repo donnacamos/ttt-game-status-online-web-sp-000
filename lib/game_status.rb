@@ -19,7 +19,14 @@ WIN_COMBINATIONS = [
   
  def won?(board)
     WIN_COMBINATIONS.each {|win| 
-    
+    index_
+      
+      
+      
+      
+      
+      
+    }
 
 end 
  
